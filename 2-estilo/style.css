@@ -5,6 +5,19 @@
     padding: 0px;
 }
 
+.ultimo-video {
+    position: relative;
+    padding-bottom: 56.5%;
+}
+
+.ultimo-video > iframe {
+    top: 5%;
+    left: 5%;
+    width: 90%;
+    height: 90%;
+    position: absolute;
+}
+
 .header-inicial {
     background-image: linear-gradient(rgb(0, 89, 255), rgb(0, 204, 255));
     padding: 10px 0px;
