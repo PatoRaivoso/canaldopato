@@ -5,6 +5,11 @@
     padding: 0px;
 }
 
+.logo {
+    width: 200px;
+    display: block;
+    margin: auto;
+}
 
 .botao-mapas {
     color: white;
