@@ -162,3 +162,9 @@ p {
     margin: auto;
     margin-bottom: 40px;
 }
+
+.img-clique-aqui {
+    width: 120px;
+    display: block;
+    margin: auto;
+}
