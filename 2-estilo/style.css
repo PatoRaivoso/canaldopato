@@ -120,8 +120,11 @@ p {
 .main-mapas {
     font-family: sans-serif;
     text-align: justify;
-    margin: 15px 5px;
     font-size: 10px;
+    max-width: 700px;
+    display: block;
+    margin: auto;
+    box-shadow: 0px 0px 4px rgba(0, 0, 0, 0.521);
 }
 .main-mapas h2 {
     margin: 0 10px;
