@@ -144,11 +144,7 @@ p {
     margin-left: 10px;
 }
 
-.imagem-lac {
-    margin: 0px;
-}
-
-.imagem-mapas {
+.img-mapas {
     max-width: 210px;
     display: block;
     margin: auto;
