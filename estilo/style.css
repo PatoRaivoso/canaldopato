@@ -115,10 +115,11 @@ p {
 
 .container {
   display: grid;
-  margin: 0 auto;
+  margin: 0px auto;
   max-width: 700px;
-  grid-template-columns: auto auto;
+  grid-template-columns: auto auto auto;
 }
+
 
 .header-mapas {
   text-align: center;
