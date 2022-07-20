@@ -163,7 +163,7 @@ p {
   font-family: sans-serif;
   font-weight: bolder;
   font-size: 1.6em;
-  text-align: left;
+  text-align: center;
   color: black;
 }
 
@@ -184,7 +184,7 @@ p {
 .img-download-mapas {
   width: 90%;
   display: block;
-  margin: auto;
+  margin: 0px auto;
 }
 
 .img-clique-aqui {
