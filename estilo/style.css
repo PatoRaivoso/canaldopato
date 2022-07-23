@@ -94,6 +94,7 @@ p {
 
 .main-inicial p {
   margin: 0 10px;
+  max-width: 700px;
   font-size: 16px;
 }
 
@@ -126,8 +127,7 @@ p {
 .container-destaques {
   display: grid;
   grid-template-columns: auto auto auto;
-  margin: 0px auto;
-  max-width: 90%;
+  margin: 0px 12px auto;
   padding-bottom: 20px;
 }
 .item-destaques {
