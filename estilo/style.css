@@ -75,8 +75,7 @@
 
 .h2-inicial {
   color: black;
-  background-color: rgb(242,242,242);
-  margin: 2px 2px;
+  margin: 1px 2px;
   border-radius: 4px;
   font-family: sans-serif;
   text-align: center;
@@ -124,6 +123,30 @@ p {
     margin: auto;
 }
 
+.container-destaques {
+  display: grid;
+  grid-template-columns: auto auto auto;
+  margin: 0px auto;
+  max-width: 90%;
+  padding-bottom: 20px;
+}
+.item-destaques {
+  max-width: 90%;
+  margin: auto;
+}
+.img-destaques {
+  width: 90%;
+  display: block;
+  margin: 0px auto;
+}
+.h2-destaques {
+  color: rgb(0, 119, 255);
+  text-shadow: 2px 1px 1px rgba(0, 0, 0, 0.74);
+  text-align: center;
+  font-family: sans-serif;
+  font-size: 18px;
+  margin: 30px 10px 10px 10px;
+}
 
 .header-mapas {
   text-align: center;
